@@ -1,0 +1,16 @@
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\bin\Debug\test.dll
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\bin\Debug\test.pdb
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\obj\Debug\test.dll
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\obj\Debug\test.pdb
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\bin\Debug\ConsoleApp1.exe
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\bin\Debug\ConsoleApp1.pdb
+C:\Users\PRITI\Desktop\Priti\Unit\ConsoleApp1\test\bin\Debug\ConsoleApp1.exe.config
